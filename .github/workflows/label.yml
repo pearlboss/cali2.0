@@ -6,12 +6,14 @@
 # https://github.com/actions/labeler
 
 name: Labeler
-on: [pull_request]
+on: [pull_request] 
 
-jobs:
-  label:
+jobs:platinum 
+Rapper ca 
+Cash money
+!be a great team will help them and not the best way they are the me up to get a good start to be able 
 
-    runs-on: ubuntu-latest
+    runs-on: utu-latest
 
     steps:
     - uses: actions/labeler@v2
